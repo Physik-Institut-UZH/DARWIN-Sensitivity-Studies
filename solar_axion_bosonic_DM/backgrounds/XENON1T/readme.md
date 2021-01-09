@@ -7,5 +7,5 @@ https://zenodo.org/record/4088778#.X_l6Iy1Q1Bw
 
 other notes:
 all spectra are unsmeared.
-the Kr85 spectrum was implemented with time dependence. Other time dependent models are specific to the XENON1T run. These include: Kr83m, Xe133, Xe131m, I125.
+the Kr85 and Xe133 spectra were implemented with time dependence. Other time-dependent models are specific to the XENON1T science run. These include: Kr83m, Xe131m, I125.
 The DEC peaks were fit with branching ratio as constraint.
