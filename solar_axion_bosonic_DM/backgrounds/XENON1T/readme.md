@@ -1,4 +1,4 @@
-Included in this directory are the specific background files that were used for the XENON1T LowER enalysis.
+Included in this directory are the specific background files that were used for the XENON1T LowER analysis.
 Details and references can be found in the published paper:
 https://journals.aps.org/prd/abstract/10.1103/PhysRevD.102.072004
 
